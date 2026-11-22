@@ -13,6 +13,7 @@ file:///C:/Users/ACER/Downloads/Week4_69143826.html
     <title>Week4_69143826</title>
 </head>
 <body>
+    
     <a href="https://www.google.com">ลิ้งกลับไปยังกูเกิ้ล</a>
     <h1> ข้อมูลสถานที่ที่จะไปเที่ยวในเชียงใหม่แต่ละที่ที่จะไป </h1>
     <p> 1.ประตูท่าแพ </p>
